@@ -1,4 +1,4 @@
-# Estrutura-De-Dados
+# Estrutura de dados
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="170" />
 
