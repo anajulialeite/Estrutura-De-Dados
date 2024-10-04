@@ -16,4 +16,4 @@ notas = [8.1, 7.6, 8.6, 7.3, 8.1]
 media = sum(notas) / len(notas)
 
 #Mostre o resultado
-print(f"A média das notas é: {media:.2f}")
+print(f"A média das notas é: {media:.1f}")
