@@ -9,3 +9,7 @@ Biblioteca do Python: https://docs.python.org/3/library/index.html
 Link de como baixar o Python: https://www.python.org/downloads/
 
 Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
