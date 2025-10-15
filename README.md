@@ -8,11 +8,11 @@ Este repositório foi craido para colocar os exercícios ministrados em sala de 
 
 ## Links úteis
 
-Biblioteca do Python: https://docs.python.org/3/library/index.html
+Biblioteca do <a href= "https://docs.python.org/3/library/index.html">Python</a>
 
-Link de como baixar o Python: https://www.python.org/downloads/
+Link de como baixar o <a href= "https://www.python.org/downloads/">Python</a>
 
-Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
+Link de como baixar o <a href= "https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm</a>
 
 ## License
 
